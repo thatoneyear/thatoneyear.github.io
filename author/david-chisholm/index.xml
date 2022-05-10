@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Chisholm | Brighten Vision Group</title>
+    <link>https://brighten.group/author/david-chisholm/</link>
+      <atom:link href="https://brighten.group/author/david-chisholm/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Chisholm</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>David Chisholm</title>
+      <link>https://brighten.group/author/david-chisholm/</link>
+    </image>
+    
+    <item>
+      <title>SEDRFuse: A symmetric encoder–decoder with residual block network for infrared and visible image fusion</title>
+      <link>https://brighten.group/publication/journal-article-10/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

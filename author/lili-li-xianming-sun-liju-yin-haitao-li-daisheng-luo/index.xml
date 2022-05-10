@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lili Li, Xianming Sun, Liju Yin, Haitao Li, Daisheng Luo | Brighten Vision Group</title>
+    <link>https://brighten.group/author/lili-li-xianming-sun-liju-yin-haitao-li-daisheng-luo/</link>
+      <atom:link href="https://brighten.group/author/lili-li-xianming-sun-liju-yin-haitao-li-daisheng-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lili Li, Xianming Sun, Liju Yin, Haitao Li, Daisheng Luo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Lili Li, Xianming Sun, Liju Yin, Haitao Li, Daisheng Luo</title>
+      <link>https://brighten.group/author/lili-li-xianming-sun-liju-yin-haitao-li-daisheng-luo/</link>
+    </image>
+    
+    <item>
+      <title>Firefly algorithm (FA) based particle filter method for visual tracking</title>
+      <link>https://brighten.group/publication/journal-article-03/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-03/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

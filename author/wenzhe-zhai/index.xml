@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenzhe Zhai | Brighten Vision Group</title>
+    <link>https://brighten.group/author/wenzhe-zhai/</link>
+      <atom:link href="https://brighten.group/author/wenzhe-zhai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenzhe Zhai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Wenzhe Zhai</title>
+      <link>https://brighten.group/author/wenzhe-zhai/</link>
+    </image>
+    
+    <item>
+      <title>DA 2 Net: a dual attention-aware network for robust crowd counting</title>
+      <link>https://brighten.group/publication/journal-article-22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Channel-aware Attention Network for Crowd Counting</title>
+      <link>https://brighten.group/publication/journal-article-27-conference/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-27-conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

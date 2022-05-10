@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaofei Wang, Xiaomin Yang, Xiaohai He, Qizhi Teng | Brighten Vision Group</title>
+    <link>https://brighten.group/author/xiaofei-wang-xiaomin-yang-xiaohai-he-qizhi-teng/</link>
+      <atom:link href="https://brighten.group/author/xiaofei-wang-xiaomin-yang-xiaohai-he-qizhi-teng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaofei Wang, Xiaomin Yang, Xiaohai He, Qizhi Teng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaofei Wang, Xiaomin Yang, Xiaohai He, Qizhi Teng</title>
+      <link>https://brighten.group/author/xiaofei-wang-xiaomin-yang-xiaohai-he-qizhi-teng/</link>
+    </image>
+    
+    <item>
+      <title>A high accuracy flow segmentation method in crowded scenes based on streakline</title>
+      <link>https://brighten.group/publication/journal-article-04/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

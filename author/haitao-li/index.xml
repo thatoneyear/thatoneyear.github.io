@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haitao Li | Brighten Vision Group</title>
+    <link>https://brighten.group/author/haitao-li/</link>
+      <atom:link href="https://brighten.group/author/haitao-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haitao Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Haitao Li</title>
+      <link>https://brighten.group/author/haitao-li/</link>
+    </image>
+    
+    <item>
+      <title>A repetitive inductive pulsed power supply circuit topology based on HTSPPT</title>
+      <link>https://brighten.group/publication/journal-article-13/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of inductive pulsed power supply based on multiple HTSPPT modules</title>
+      <link>https://brighten.group/publication/journal-article-15/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking method based on cuckoo search algorithm</title>
+      <link>https://brighten.group/publication/journal-article-07/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多姿态人脸识别综述</title>
+      <link>https://brighten.group/publication/journal-article-06/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of multi-pose face recognition</title>
+      <link>https://brighten.group/publication/journal-article-14/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

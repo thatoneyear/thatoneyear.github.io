@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaochen Hou | Brighten Vision Group</title>
+    <link>https://brighten.group/author/xiaochen-hou/</link>
+      <atom:link href="https://brighten.group/author/xiaochen-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaochen Hou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xiaochen Hou</title>
+      <link>https://brighten.group/author/xiaochen-hou/</link>
+    </image>
+    
+    <item>
+      <title>Study on the clouds detected by a millimeter-wave cloud radar over the hinterland of the Taklimakan Desert in April–June 2018</title>
+      <link>https://brighten.group/publication/journal-article-30/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-30/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

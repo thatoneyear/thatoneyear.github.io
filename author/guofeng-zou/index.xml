@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guofeng Zou | Brighten Vision Group</title>
+    <link>https://brighten.group/author/guofeng-zou/</link>
+      <atom:link href="https://brighten.group/author/guofeng-zou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guofeng Zou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Guofeng Zou</title>
+      <link>https://brighten.group/author/guofeng-zou/</link>
+    </image>
+    
+    <item>
+      <title>DA 2 Net: a dual attention-aware network for robust crowd counting</title>
+      <link>https://brighten.group/publication/journal-article-22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image matching based on a structured deep coupled metric learning framework</title>
+      <link>https://brighten.group/publication/journal-article-25/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Channel-aware Attention Network for Crowd Counting</title>
+      <link>https://brighten.group/publication/journal-article-27-conference/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-27-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking for UAV using adaptive spatio-temporal regularized correlation filters</title>
+      <link>https://brighten.group/publication/journal-article-28/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian regularization restoration algorithm for photon counting images</title>
+      <link>https://brighten.group/publication/journal-article-32/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Person re-identification based on metric learning: a survey</title>
+      <link>https://brighten.group/publication/journal-article-33/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于多尺度融合卷积神经网络的人群计数方法</title>
+      <link>https://brighten.group/publication/journal-article-36/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>行人重识别中度量学习方法研究进展</title>
+      <link>https://brighten.group/publication/journal-article-38/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for small sample face recognition with pose variation by fusing Gabor encoding features and deep features</title>
+      <link>https://brighten.group/publication/journal-article-18/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of inductive pulsed power supply based on multiple HTSPPT modules</title>
+      <link>https://brighten.group/publication/journal-article-15/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking method based on cuckoo search algorithm</title>
+      <link>https://brighten.group/publication/journal-article-07/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多姿态人脸识别综述</title>
+      <link>https://brighten.group/publication/journal-article-06/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of multi-pose face recognition</title>
+      <link>https://brighten.group/publication/journal-article-14/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinfeng Pan | Brighten Vision Group</title>
+    <link>https://brighten.group/author/jinfeng-pan/</link>
+      <atom:link href="https://brighten.group/author/jinfeng-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinfeng Pan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jinfeng Pan</title>
+      <link>https://brighten.group/author/jinfeng-pan/</link>
+    </image>
+    
+    <item>
+      <title>DA 2 Net: a dual attention-aware network for robust crowd counting</title>
+      <link>https://brighten.group/publication/journal-article-22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal behavior detection using streak flow acceleration</title>
+      <link>https://brighten.group/publication/journal-article-23/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Channel-aware Attention Network for Crowd Counting</title>
+      <link>https://brighten.group/publication/journal-article-27-conference/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-27-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking for UAV using adaptive spatio-temporal regularized correlation filters</title>
+      <link>https://brighten.group/publication/journal-article-28/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal joint aberrance suppressed correlation filter for visual tracking</title>
+      <link>https://brighten.group/publication/journal-article-29/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian regularization restoration algorithm for photon counting images</title>
+      <link>https://brighten.group/publication/journal-article-32/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于脉线流卷积神经网络的人群异常行为检测算法</title>
+      <link>https://brighten.group/publication/journal-article-39/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for small sample face recognition with pose variation by fusing Gabor encoding features and deep features</title>
+      <link>https://brighten.group/publication/journal-article-18/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

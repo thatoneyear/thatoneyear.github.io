@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brighten Vision Group</title>
+    <link>https://brighten.group/</link>
+      <atom:link href="https://brighten.group/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brighten Vision Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Brighten Vision Group</title>
+      <link>https://brighten.group/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://brighten.group/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://brighten.group/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>研究生新生入学前学习指南</title>
+      <link>https://brighten.group/internal/guidance/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/internal/guidance/</guid>
+      <description>&lt;p&gt;工欲善其事，必先利其器。为了保障后续研究的顺利开展，现制订以下学习内容和要求：&lt;/p&gt;
+&lt;h4 id=&#34;编程语言python&#34;&gt;编程语言—Python&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;熟练掌握&lt;a href=&#34;https://www.liaoxuefeng.com/wiki/1016959663602400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt; 的IDE环境（&lt;a href=&#34;https://code.visualstudio.com/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSCode&lt;/a&gt;）；&lt;/li&gt;
+&lt;li&gt;熟练掌握Python的基本语法结构，特别是函数的定义和使用、类的定义和使用、模块的导入和使用等；&lt;/li&gt;
+&lt;li&gt;掌握使用VSCode进行调试的方法；&lt;/li&gt;
+&lt;li&gt;熟练掌握&lt;a href=&#34;https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf&lt;/a&gt;环境管理，掌握使用conda和pip进行包的安装、管理；掌握使用conda创建新环境的方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;操作系统ubuntu-2004&#34;&gt;操作系统—Ubuntu 20.04&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;熟练掌握&lt;a href=&#34;https://ubuntu.com/desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ubuntu&lt;/a&gt;系统的安装并将其作为主力系统；&lt;/li&gt;
+&lt;li&gt;熟练掌握系统下常用软件的安装；&lt;/li&gt;
+&lt;li&gt;熟练Linux常见命令, e.g. &lt;code&gt;cd, ls -alh, mv, cp, cat, head, less, more, tail, vi, watch, nvidia-smi, gpustat, pwd&lt;/code&gt;；&lt;/li&gt;
+&lt;li&gt;熟悉基于Ubuntu的&lt;a href=&#34;https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anaconda&lt;/a&gt;和&lt;a href=&#34;https://www.liaoxuefeng.com/wiki/1016959663602400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;的使用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;深度学习框架pytorch&#34;&gt;深度学习框架—PyTorch&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;掌握深度学习特别是卷积神经网络的基本原理，如反向传播、梯度下降、参数更新、损失函数、激活函数等；&lt;/li&gt;
+&lt;li&gt;熟练&lt;a href=&#34;https://pytorch.org/get-started/locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyTorch&lt;/a&gt;的深度学习架构，结合官方例程掌握已有网络的搭建方式、各组成部分的物理意义（Conv2d, FC, Pooling, Dropout, BN etc）；&lt;/li&gt;
+&lt;li&gt;能够基于PyTorch搭建深度网络，并根据需求灵活调整结构；&lt;/li&gt;
+&lt;li&gt;了解不同类型卷积的作用（膨胀卷积，逆卷积，可变形卷积等）；&lt;/li&gt;
+&lt;li&gt;掌握训练模型时的技巧（learning rate、batchsize，多卡训练等）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;基于python的图像处理和机器学习&#34;&gt;基于Python的图像处理和机器学习&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;了解图像处理的基本算法和思想，熟悉基于Python的图像处理库和模块（如OpenCV，PIL，PLT等），能够使用任意库进行图像处理；&lt;/li&gt;
+&lt;li&gt;了解机器学习的基本算法和思想，熟悉基于Python的机器学习库和模块（如Scipy，Scikit-learn等），能够使用任意库进行数据的特征提取、聚类、降维等操作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;其他必备技能&#34;&gt;其他必备技能&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;代码查找（&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;）、python debug（记录调试过程中遇到的错误，解决方法）；&lt;/li&gt;
+&lt;li&gt;外文的下载、阅读和写作技巧（阅读文章时，注意写作的框架、逻辑、语法等问题，勤思考有无可改进创新的地方）；&lt;/li&gt;
+&lt;li&gt;文献资料管理（&lt;a href=&#34;https://www.jabref.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JabRef&lt;/a&gt;的使用）；&lt;/li&gt;
+&lt;li&gt;LaTex排版（&lt;a href=&#34;https://www.overleaf.com/project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;的使用；图表，公式的插入等。能够进行模板之间的切换）；&lt;/li&gt;
+&lt;li&gt;做笔记（&lt;a href=&#34;https://evernote.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evernote&lt;/a&gt;, &lt;a href=&#34;https://www.notion.so&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notion&lt;/a&gt;，记录文章的创新点，实验结果等）；&lt;/li&gt;
+&lt;li&gt;绘制图像（使用Matlab，matplotlib，&lt;a href=&#34;https://app.diagrams.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;drawio&lt;/a&gt;，visio等软件绘制主观图像）；&lt;/li&gt;
+&lt;li&gt;用&lt;a href=&#34;https://www.runoob.com/git/git-basic-operations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;来进行代码同步和版本管理。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;服务器使用注意事项&#34;&gt;服务器使用注意事项&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;学会使用&lt;a href=&#34;https://wangdoc.com/ssh/basic.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ssh, scp&lt;/a&gt;命令；&lt;/li&gt;
+&lt;li&gt;学会本地连接远程服务器；&lt;/li&gt;
+&lt;li&gt;使用&lt;a href=&#34;https://www.ruanyifeng.com/blog/2019/10/tmux.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tmux&lt;/a&gt;进行终端复用，避免网络断开导致任务中断；&lt;/li&gt;
+&lt;li&gt;及时备份实验数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考资料：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/pytorch_with_examples.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning PyTorch with Examples — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TorchVision Object Detection Finetuning Tutorial — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Learning for Computer Vision Tutorial — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCGAN Tutorial — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perceptual importance analysis-based rate control method for HEVC</title>
+      <link>https://brighten.group/publication/journal-article-21/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA 2 Net: a dual attention-aware network for robust crowd counting</title>
+      <link>https://brighten.group/publication/journal-article-22/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abnormal behavior detection using streak flow acceleration</title>
+      <link>https://brighten.group/publication/journal-article-23/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated duality-aware correlation filters for visual tracking</title>
+      <link>https://brighten.group/publication/journal-article-24/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image matching based on a structured deep coupled metric learning framework</title>
+      <link>https://brighten.group/publication/journal-article-25/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the scattering characteristics of Ka millimeter wave by dust storms</title>
+      <link>https://brighten.group/publication/journal-article-26/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Channel-aware Attention Network for Crowd Counting</title>
+      <link>https://brighten.group/publication/journal-article-27-conference/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-27-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking for UAV using adaptive spatio-temporal regularized correlation filters</title>
+      <link>https://brighten.group/publication/journal-article-28/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal joint aberrance suppressed correlation filter for visual tracking</title>
+      <link>https://brighten.group/publication/journal-article-29/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on the clouds detected by a millimeter-wave cloud radar over the hinterland of the Taklimakan Desert in April–June 2018</title>
+      <link>https://brighten.group/publication/journal-article-30/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian regularization restoration algorithm for photon counting images</title>
+      <link>https://brighten.group/publication/journal-article-32/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint spatiotemporal regularization and scale-aware correlation filters for visual tracking</title>
+      <link>https://brighten.group/publication/journal-article-31/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Person re-identification based on metric learning: a survey</title>
+      <link>https://brighten.group/publication/journal-article-33/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved HEVC video compression algorithm using low-complexity frame rate up conversion</title>
+      <link>https://brighten.group/publication/journal-article-34/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于多尺度融合卷积神经网络的人群计数方法</title>
+      <link>https://brighten.group/publication/journal-article-36/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activation ensemble generative adversarial network transfer learning for image classification</title>
+      <link>https://brighten.group/publication/journal-article-35/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning thermal image translation for night vision perception</title>
+      <link>https://brighten.group/publication/journal-article-37/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
+      <link>https://brighten.group/new/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/new/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>123Richard Hendricks Wins First Place in the Wowchemy Prize</title>
+      <link>https://brighten.group/new/20-12-01-wowchemy-prize/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/new/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>行人重识别中度量学习方法研究进展</title>
+      <link>https://brighten.group/publication/journal-article-38/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种基于脉线流卷积神经网络的人群异常行为检测算法</title>
+      <link>https://brighten.group/publication/journal-article-39/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abnormal Crowd Behavior Detection Method Based on Streak Flow CNN</title>
+      <link>https://brighten.group/publication/journal-article-40/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for small sample face recognition with pose variation by fusing Gabor encoding features and deep features</title>
+      <link>https://brighten.group/publication/journal-article-18/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-D-based object recognition using multimodal convolutional neural networks: A survey </title>
+      <link>https://brighten.group/publication/journal-article-05/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking using improved flower pollination algorithm</title>
+      <link>https://brighten.group/publication/journal-article-09/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A repetitive inductive pulsed power supply circuit topology based on HTSPPT</title>
+      <link>https://brighten.group/publication/journal-article-13/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of inductive pulsed power supply based on multiple HTSPPT modules</title>
+      <link>https://brighten.group/publication/journal-article-15/</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel visual tracking method using bat algorithm</title>
+      <link>https://brighten.group/publication/journal-article-02/</link>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-02/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Firefly algorithm (FA) based particle filter method for visual tracking</title>
+      <link>https://brighten.group/publication/journal-article-03/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking method based on cuckoo search algorithm</title>
+      <link>https://brighten.group/publication/journal-article-07/</link>
+      <pubDate>Sun, 12 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多姿态人脸识别综述</title>
+      <link>https://brighten.group/publication/journal-article-06/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human action recognition via compressive-sensing-based dimensionality reduction</title>
+      <link>https://brighten.group/publication/journal-article-19/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face tracking based on differential harmony search</title>
+      <link>https://brighten.group/publication/journal-article-16/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of multi-pose face recognition</title>
+      <link>https://brighten.group/publication/journal-article-14/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Abnormal Crowd Behavior Detection Algorithm Based on Fluid Mechanics</title>
+      <link>https://brighten.group/publication/journal-article-17/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A high accuracy flow segmentation method in crowded scenes based on streakline</title>
+      <link>https://brighten.group/publication/journal-article-04/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking using firefly algorithm</title>
+      <link>https://brighten.group/publication/journal-article-01/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-01/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEDRFuse: A symmetric encoder–decoder with residual block network for infrared and visible image fusion</title>
+      <link>https://brighten.group/publication/journal-article-10/</link>
+      <pubDate>Mon, 15 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory classification based on Hausdorff distance and longest common subsequence</title>
+      <link>https://brighten.group/publication/journal-article-08/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>结合 Hausdorff 距离和最长公共子序列的轨迹分类</title>
+      <link>https://brighten.group/publication/journal-article-11/</link>
+      <pubDate>Fri, 19 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object tracking based on harmony search: comparative study</title>
+      <link>https://brighten.group/publication/journal-article-12/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>改进的基于 GMM 的运动目标检测方法</title>
+      <link>https://brighten.group/publication/journal-article-20/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://brighten.group/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://brighten.group/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://brighten.group/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

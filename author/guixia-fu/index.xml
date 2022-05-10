@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guixia Fu | Brighten Vision Group</title>
+    <link>https://brighten.group/author/guixia-fu/</link>
+      <atom:link href="https://brighten.group/author/guixia-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guixia Fu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Guixia Fu</title>
+      <link>https://brighten.group/author/guixia-fu/</link>
+    </image>
+    
+    <item>
+      <title>Image matching based on a structured deep coupled metric learning framework</title>
+      <link>https://brighten.group/publication/journal-article-25/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Person re-identification based on metric learning: a survey</title>
+      <link>https://brighten.group/publication/journal-article-33/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>行人重识别中度量学习方法研究进展</title>
+      <link>https://brighten.group/publication/journal-article-38/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach for small sample face recognition with pose variation by fusing Gabor encoding features and deep features</title>
+      <link>https://brighten.group/publication/journal-article-18/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多姿态人脸识别综述</title>
+      <link>https://brighten.group/publication/journal-article-06/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of multi-pose face recognition</title>
+      <link>https://brighten.group/publication/journal-article-14/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/publication/journal-article-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

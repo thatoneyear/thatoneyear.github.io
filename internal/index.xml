@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internal Posts | Brighten Vision Group</title>
+    <link>https://brighten.group/internal/</link>
+      <atom:link href="https://brighten.group/internal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internal Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brighten.group/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Internal Posts</title>
+      <link>https://brighten.group/internal/</link>
+    </image>
+    
+    <item>
+      <title>研究生新生入学前学习指南</title>
+      <link>https://brighten.group/internal/guidance/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://brighten.group/internal/guidance/</guid>
+      <description>&lt;p&gt;工欲善其事，必先利其器。为了保障后续研究的顺利开展，现制订以下学习内容和要求：&lt;/p&gt;
+&lt;h4 id=&#34;编程语言python&#34;&gt;编程语言—Python&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;熟练掌握&lt;a href=&#34;https://www.liaoxuefeng.com/wiki/1016959663602400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt; 的IDE环境（&lt;a href=&#34;https://code.visualstudio.com/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VSCode&lt;/a&gt;）；&lt;/li&gt;
+&lt;li&gt;熟练掌握Python的基本语法结构，特别是函数的定义和使用、类的定义和使用、模块的导入和使用等；&lt;/li&gt;
+&lt;li&gt;掌握使用VSCode进行调试的方法；&lt;/li&gt;
+&lt;li&gt;熟练掌握&lt;a href=&#34;https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf&lt;/a&gt;环境管理，掌握使用conda和pip进行包的安装、管理；掌握使用conda创建新环境的方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;操作系统ubuntu-2004&#34;&gt;操作系统—Ubuntu 20.04&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;熟练掌握&lt;a href=&#34;https://ubuntu.com/desktop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ubuntu&lt;/a&gt;系统的安装并将其作为主力系统；&lt;/li&gt;
+&lt;li&gt;熟练掌握系统下常用软件的安装；&lt;/li&gt;
+&lt;li&gt;熟练Linux常见命令, e.g. &lt;code&gt;cd, ls -alh, mv, cp, cat, head, less, more, tail, vi, watch, nvidia-smi, gpustat, pwd&lt;/code&gt;；&lt;/li&gt;
+&lt;li&gt;熟悉基于Ubuntu的&lt;a href=&#34;https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anaconda&lt;/a&gt;和&lt;a href=&#34;https://www.liaoxuefeng.com/wiki/1016959663602400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python&lt;/a&gt;的使用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;深度学习框架pytorch&#34;&gt;深度学习框架—PyTorch&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;掌握深度学习特别是卷积神经网络的基本原理，如反向传播、梯度下降、参数更新、损失函数、激活函数等；&lt;/li&gt;
+&lt;li&gt;熟练&lt;a href=&#34;https://pytorch.org/get-started/locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyTorch&lt;/a&gt;的深度学习架构，结合官方例程掌握已有网络的搭建方式、各组成部分的物理意义（Conv2d, FC, Pooling, Dropout, BN etc）；&lt;/li&gt;
+&lt;li&gt;能够基于PyTorch搭建深度网络，并根据需求灵活调整结构；&lt;/li&gt;
+&lt;li&gt;了解不同类型卷积的作用（膨胀卷积，逆卷积，可变形卷积等）；&lt;/li&gt;
+&lt;li&gt;掌握训练模型时的技巧（learning rate、batchsize，多卡训练等）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;基于python的图像处理和机器学习&#34;&gt;基于Python的图像处理和机器学习&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;了解图像处理的基本算法和思想，熟悉基于Python的图像处理库和模块（如OpenCV，PIL，PLT等），能够使用任意库进行图像处理；&lt;/li&gt;
+&lt;li&gt;了解机器学习的基本算法和思想，熟悉基于Python的机器学习库和模块（如Scipy，Scikit-learn等），能够使用任意库进行数据的特征提取、聚类、降维等操作。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;其他必备技能&#34;&gt;其他必备技能&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;代码查找（&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;）、python debug（记录调试过程中遇到的错误，解决方法）；&lt;/li&gt;
+&lt;li&gt;外文的下载、阅读和写作技巧（阅读文章时，注意写作的框架、逻辑、语法等问题，勤思考有无可改进创新的地方）；&lt;/li&gt;
+&lt;li&gt;文献资料管理（&lt;a href=&#34;https://www.jabref.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JabRef&lt;/a&gt;的使用）；&lt;/li&gt;
+&lt;li&gt;LaTex排版（&lt;a href=&#34;https://www.overleaf.com/project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;的使用；图表，公式的插入等。能够进行模板之间的切换）；&lt;/li&gt;
+&lt;li&gt;做笔记（&lt;a href=&#34;https://evernote.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evernote&lt;/a&gt;, &lt;a href=&#34;https://www.notion.so&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;notion&lt;/a&gt;，记录文章的创新点，实验结果等）；&lt;/li&gt;
+&lt;li&gt;绘制图像（使用Matlab，matplotlib，&lt;a href=&#34;https://app.diagrams.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;drawio&lt;/a&gt;，visio等软件绘制主观图像）；&lt;/li&gt;
+&lt;li&gt;用&lt;a href=&#34;https://www.runoob.com/git/git-basic-operations.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;来进行代码同步和版本管理。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;服务器使用注意事项&#34;&gt;服务器使用注意事项&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;学会使用&lt;a href=&#34;https://wangdoc.com/ssh/basic.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ssh, scp&lt;/a&gt;命令；&lt;/li&gt;
+&lt;li&gt;学会本地连接远程服务器；&lt;/li&gt;
+&lt;li&gt;使用&lt;a href=&#34;https://www.ruanyifeng.com/blog/2019/10/tmux.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tmux&lt;/a&gt;进行终端复用，避免网络断开导致任务中断；&lt;/li&gt;
+&lt;li&gt;及时备份实验数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考资料：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/pytorch_with_examples.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning PyTorch with Examples — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TorchVision Object Detection Finetuning Tutorial — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transfer Learning for Computer Vision Tutorial — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DCGAN Tutorial — PyTorch Tutorials 1.8.1+cu102 documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
